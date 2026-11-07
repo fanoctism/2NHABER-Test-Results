@@ -1,6 +1,6 @@
 # 2NHABER Test Results
 
-This repository contains the test results and reports for the **2NHABER** website, prepared as part of a manual testing task.
+This repository contains the test results and reports for the **2NHABER** website ([2nhaber.com](https://2nhaber.com/)), prepared as part of a manual testing task.
 
 ## **Contents**
 All testing-related documents are consolidated into a single Excel file: `Manual testing - 2N Haber.xlsx`. This file includes the following sheets:
@@ -11,8 +11,8 @@ All testing-related documents are consolidated into a single Excel file: `Manual
 
 ## **Summary**
 - **Total Test Cases**: 11
-- **Passed**: 11
-- **Failed**: 0
+- **Passed**: 1
+- **Failed**: 10
 - **High Severity Bugs**: 5
 
 ## **How to Use**
