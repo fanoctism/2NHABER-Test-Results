@@ -11,8 +11,8 @@ All testing-related documents are consolidated into a single Excel file: `Manual
 
 ## **Summary**
 - **Total Test Cases**: 11
-- **Passed**: 1
-- **Failed**: 10
+- **Passed**: 0
+- **Failed**: 11
 - **High Severity Bugs**: 5
 
 ## **How to Use**
